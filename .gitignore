@@ -4,3 +4,5 @@
 /lib/Cake/Console/Templates/skel/tmp/
 /app/tmp/cache/*
 /app/tmp/logs/*
+
+*.idea*
